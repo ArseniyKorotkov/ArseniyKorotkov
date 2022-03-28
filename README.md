@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArseniyKorotkov
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java in JavaRush and JetBrains
+- 🌱 I’m currently learning Java in JetBrains and JavaRush
 - 👌 Completed a Java course at SoloLearn. Here is the certificate - https://www.sololearn.com/certificates/course/en/19204069/1068/landscape/png
 - 💞️ I’m looking to collaborate on Android
 
