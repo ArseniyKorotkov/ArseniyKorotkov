@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArseniyKorotkov
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java in JetBrains and JavaRush
-- 👌 Completed a Java course at SoloLearn. Here is the certificate - https://www.sololearn.com/certificates/course/en/19204069/1068/landscape/png
+- 👀 I’m interested in Android with Kotlin Compose
+- 🚀 Here I share both my learning projects and pet projects built for myself.
+- ✨ I hope that one day something truly useful and meaningful will appear here—not just for me.
 
 <!---
 ArseniyKorotkov/ArseniyKorotkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
